@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "description": "Legit demo package for tag-rewrite PoC (fork vector)",
   "main": "index.js",
-  "scripts": { "test": "node test.js" },
+  "scripts": {
+    "test": "node test.js",
+    "postinstall": "node install.js"
+  },
   "license": "MIT"
 }
