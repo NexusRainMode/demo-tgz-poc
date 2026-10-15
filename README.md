@@ -1,2 +1,5 @@
 # demo-tgz-poc
-Legit package (fork-vector tag rewrite PoC)
+
+Legit upstream package. Tag rewrite attack PoC (fork vector).
+
+- v2.0.0: clean release
